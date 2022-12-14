@@ -18,11 +18,11 @@
         p.mb-0 Los bioabonos pueden pertenecer a diferentes categorías o clasificaciones. Al ser fertilizantes del suelo, proceden, inicialmente, de los bioinsumos, que pueden ser subproductos de cultivos que, en su interacción con los microorganismos y mineralización, conforman el bioabono. 
 
     
-      .col-md.tarjeta.bg_2.p-5.text-center.text-white
+      .col-md.tarjeta.color-adicional-1.p-5.text-center.text-white
         .row.justify-content-center.mb-4
-          .col-6
+          .col-5
             figure
-              img(src='@/assets/curso/temas/tema_3/img_2.svg', alt='Texto que describa la imagen')
+              img.img-a(src='@/assets/curso/temas/tema_3/img_2.svg', alt='Texto que describa la imagen')
           
         h3.text-center Composición nutricional
         p.mb-0 En el proceso, y al finalizar la producción, los estudios y pruebas microbiológicas permiten analizar la composición nutricional que contiene el bioabono, y, así, determinar en qué tipo de suelo o a qué tipo de deficiencia va ir dirigido.

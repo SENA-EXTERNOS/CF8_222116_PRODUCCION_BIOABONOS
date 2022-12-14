@@ -65,19 +65,19 @@
           
     .row.mb-5.align-items-stretch.d-flex.h-100
       .col-lg-6.col-xl-4.d-flex.h-100
-        .tarjeta.color-secundario.fondo-5.p-4.h-100
+        .tarjeta.color-secundario.fondo-5.p-4.h-100.tem_tar
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema_5/img_7.svg' alt='AvatarTop')
           p.text-center La acidez en los bioabonos debe estar en una escala de significancia mayor a 6, aunque menor a 8. Si los valores de acidez son muy altos, se afecta el funcionamiento de los microorganismos transformadores en el proceso del bioabono. 
       .col-lg-6.col-xl-4.d-flex.h-100
-        .tarjeta.color-secundario.fondo-5.p-4.h-100
+        .tarjeta.color-secundario.fondo-5.p-4.h-100.tem_tar
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema_5/img_8.svg' alt='AvatarTop')
           p.text-center.mb-0 En la escala pH, si la acidez es muy baja, el ambiente se torna tóxico y se elimina la biota que lo conforman. Por esta razón, un ambiente neutro, en esta escala valorativa, será el indicado para que el proceso de fermentación se lleve a cabo y se logren los objetivos en la disposición de nutrientes. 
       .col-lg-6.col-xl-4.d-flex.h-100
-        .tarjeta.color-secundario.fondo-5.p-4.h-100
+        .tarjeta.color-secundario.fondo-5.p-4.h-100.tem_tar
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema_5/img_9.svg' alt='AvatarTop')
