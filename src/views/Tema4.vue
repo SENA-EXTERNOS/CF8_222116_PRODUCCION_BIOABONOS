@@ -5,7 +5,9 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Producción de bioabonos
+      h1 Homogeneización del producto
+    
+    p.mb-5 Una vez reconocidos los elementos destacados acerca de la producción del bioabono, en este apartado, se describe la homogeneización del producto.
 
     .fondo-4.p-4
       SlyderA(tipo="b")

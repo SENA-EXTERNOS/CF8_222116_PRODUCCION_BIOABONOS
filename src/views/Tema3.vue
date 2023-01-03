@@ -7,6 +7,8 @@
         span 3
       h1 Producción de bioabonos
 
+    p.mb-5 La producción de un bioabono implica el desarrollo de un objetivo planificado, lo que incluye todos los aspectos de tipo empresarial y procedimental.
+
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.color-secundario.p-5.text-center
         .row.justify-content-center.mb-4

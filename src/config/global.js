@@ -342,7 +342,7 @@ export default {
     {
       referencia:
         'Tencio, C. (2017). Guía de elaboración y aplicación de bioinsumos para una producción agrícola sostenible. Ministerio de Agricultura y Ganadería de Costa Rica.',
-      link: 'http://www.mag.go.cr/bibliotecavirtual/F08-10924.pdf,',
+      link: 'http://www.mag.go.cr/bibliotecavirtual/F08-10924.pdf',
     },
   ],
   creditos: {
