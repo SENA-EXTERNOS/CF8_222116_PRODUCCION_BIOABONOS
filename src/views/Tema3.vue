@@ -14,7 +14,7 @@
         .row.justify-content-center.mb-4
           .col-5
             figure
-              img(src='@/assets/curso/temas/tema_3/img_1.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema_3/img_1.svg', alt='')
           
         h3.text-center Clasificación de bioabonos
         p.mb-0 Los bioabonos pueden pertenecer a diferentes categorías o clasificaciones. Al ser fertilizantes del suelo, proceden, inicialmente, de los bioinsumos, que pueden ser subproductos de cultivos que, en su interacción con los microorganismos y mineralización, conforman el bioabono. 
@@ -24,57 +24,45 @@
         .row.justify-content-center.mb-4
           .col-5
             figure
-              img.img-a(src='@/assets/curso/temas/tema_3/img_2.svg', alt='Texto que describa la imagen')
+              img.img-a(src='@/assets/curso/temas/tema_3/img_2.svg', alt='')
           
         h3.text-center Composición nutricional
-        p.mb-0 En el proceso, y al finalizar la producción, los estudios y pruebas microbiológicas permiten analizar la composición nutricional que contiene el bioabono, y, así, determinar en qué tipo de suelo o a qué tipo de deficiencia va ir dirigido.
+        p.mb-0 En el proceso, y al finalizar la producción, los estudios y pruebas microbiológicas permiten analizar la composición nutricional que contiene el bioabono, y, así, determinar en qué tipo de suelo o a qué tipo de deficiencia va ir dirigido. 
 
       .col-md.tarjeta.color-primario.p-5.text-center
         .row.justify-content-center.mb-4
           .col-5
-            img.img-a(src='@/assets/curso/temas/tema_3/img_3.svg', alt='Texto que describa la imagen')
+            img.img-a(src='@/assets/curso/temas/tema_3/img_3.svg', alt='')
           
         h3.text-center Producción de bioabono
         p.mb-0 Otro aspecto relevante en cuanto a la producción del bioabono, hace referencia al tipo de su presentación, sea líquido o sólido. Dependiendo de esto, se llevan a cabo procedimientos y técnicas propias para su elaboración, proceso de maduración, y almacenamiento final.
-
-    separador
-    #t_3_1.titulo-segundo.color-acento-contenido.mt-5
-      h2 3.1 Composición líquida de bioabonos y lixiviados
 
     p.mb-5 En el reconocimiento de la producción de bioabonos, un aspecto destacado está relacionado con la composición líquida de bioabonos y lixiviados. Observe el siguiente video, allí se presentan aspectos importantes referentes a este tema.
 
     figure.mb-5(data-aos="zoom-in-down")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
 
-    separador
-    #t_3_2.titulo-segundo.color-acento-contenido.mt-5
-      h2 3.2 Composición sólida de bioabonos
-
-    p.mb-5 Reconociendo la composición líquida de bioabonos y lixiviados, en este apartado, se presenta todo lo relacionado con la composición sólida de bioabonos.
-
+    p.mb-5 Reconociendo la composición líquida de bioabonos y lixiviados, a continuación, conozcamo lo relacionado con la composición sólida de bioabonos.
     .bg_3.p-4.mb-5 
       SlyderB(:datos="datosSlyder")
 
     .row.mb-5
       .col-lg-5.mb-4.mb-md-0
         .cajon-b.color-secundario.p-3.mb-5
-          p.mb-0 Aprendiz, puede profundizar sobre las fases del compostaje consultando el documento “Manual de compostaje del agricultor”, encontrado en el material complementario. 
+          p.mb-0 Para un aprendizaje más profundo sobre las fases del compostaje, lo invitamos a consultar el documento “Manual de compostaje del agricultor”, el cual se encuentra en el material complementario. 
       .col-lg-7
-        img.img-a(src='@/assets/curso/temas/tema_3/img_8.png', alt='Texto que describa la imagen')
+        img.img-a(src='@/assets/curso/temas/tema_3/img_8.png', alt='')
 
-    separador
-    #t_3_3.titulo-segundo.color-acento-contenido.mt-5
-      h2 3.3 Enriquecimiento de bioabono a partir de minerales 
+    h3.mt-5 Enriquecimiento de bioabono a partir de minerales 
 
     .row.mb-5
       .col-lg-5.mb-4.mb-md-0
-        img.img-a(src='@/assets/curso/temas/tema_3/img_9.png', alt='Texto que describa la imagen')
+        img.img-a(src='@/assets/curso/temas/tema_3/img_9.png', alt='')
       .col-lg-7
         .cajon-b.color-secundario.p-3
-          p.mb-0 Al implementarse un cultivo para producción, la transición de uno a otro, continuamente, genera en el suelo la escasez de minerales indispensables para el desarrollo del material vegetal a producir. Por esta razón, es de gran importancia proveer, periódicamente, los minerales absorbidos en el crecimiento y desarrollo de las plantas, pues la no absorción de alguno de estos, en los diferentes estadios de desarrollo, genera deficiencias que implican productos de baja calidad.
-        p Para realizar los aportes nutricionales mediante el suministro de bioabonos, se determinan, en su elaboración, bioinsumos que contengan la mineralización apropiada para las especies o tipos de cultivo, por ejemplo, el hierro actúa en los procesos fotosintéticos y en la fijación del nitrógeno. Así, cada uno de los minerales mencionados anteriormente, interviene, de forma particular, tal como se observa en la siguiente infografía. Así, el bioabono se enriquece mediante la aplicación de sueros, roca fosfórica, carbonato de calcio, cenizas y otros insumos que contienen los minerales requeridos.
+          p.mb-0 Al implementarse un cultivo para producción, la transición entre uno y otro, continuamente, genera en el suelo, la escasez de minerales indispensables para el desarrollo del material vegetal a producir. Por esta razón, es de gran importancia proveer, periódicamente, los minerales absorbidos en el crecimiento y desarrollo de las plantas, pues la no absorción de alguno de estos, en los diferentes estadíos de desarrollo, genera deficiencias que implican productos de baja calidad. 
+        p Para realizar los aportes nutricionales, mediante el suministro de bioabonos, se determinan, en su elaboración, bioinsumos que contengan la mineralización apropiada para las especies o tipos de cultivo; por ejemplo, el hierro actúa en los procesos fotosintéticos y en la fijación del nitrógeno. Así, cada uno de los minerales mencionados anteriormente, interviene, de forma particular, tal como se observa en la siguiente infografía. Así, el bioabono se enriquece mediante la aplicación de sueros, roca fosfórica, carbonato de calcio, cenizas y otros insumos que contienen los minerales requeridos.
 
     .fondo-3.p-4
       .row.justify-content-center
@@ -82,7 +70,7 @@
           ImagenInfografica.color-acento-contenido.mb-5
             template(v-slot:imagen)
               figure
-                img.img-a(src='@/assets/curso/temas/tema_3/img_10.svg', alt='Texto que describa la imagen')
+                img.img-a(src='@/assets/curso/temas/tema_3/img_10.svg', alt='')
 
             .tarjeta.tar_im.p-3(x="45%" y="3%" numero="1")
               p.mb-0 Componente fundamental de carbohidratos, proteínas, lípidos y aminoácidos. 
@@ -147,7 +135,7 @@ export default {
       },
       {
         texto:
-          'Es importante prestar atención a aspectos del bioabono, por ejemplo, al exceso de humedad, a insumos viejos o desproporcionados, a la presencia de residuos químicos, como herbicidas, en los residuos de cosechas, a la poca homogeneidad en la mezcla y al mal almacenamiento y disposición final. Todo esto afecta la actividad biológica del preparado y, por ende, su calidad en la nutrición de los suelos para los cultivos.',
+          'Es importante prestar atención a ciertos aspectos del bioabono; por ejemplo, al exceso de humedad, a insumos viejos o desproporcionados, a la presencia de residuos químicos, como herbicidas, en los residuos de cosechas, a la poca homogeneidad en la mezcla y al mal almacenamiento y disposición final. Todo esto afecta la actividad biológica del preparado y, por ende, su calidad en la nutrición de los suelos para los cultivos.',
         imagen: require('@/assets/curso/temas/tema_3/img_7.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

@@ -7,11 +7,11 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/template/arrastrar.svg", alt="Texto que describa la imagen")
+            img(src="@/assets/template/arrastrar.svg", alt="")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-secundario
-          h2 Arrastrar y soltar
-        p.mb-4 Ha llegado al final de este componente formativo. Recuerde explorar los demás recursos que se encuentran disponibles, para ello, diríjase al menú principal, allí encontrará la síntesis, la actividad didáctica, el material complementario y otros recursos.
+          h2 Producción de bioabonos
+        p.mb-4 En la siguiente actividad deberá ubicar el concepto correcto al contenido descrito. Cada enunciado corresponde a temáticas desarrolladas en las unidades que conforman este componente formativo.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
