@@ -11,16 +11,16 @@
 
     .fondo-1.p-4
       SlyderA(tipo="b")
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p Los bioabonos están relacionados con los procesos de degradación de la materia orgánica en el suelo, con el objetivo de suministrar las moléculas necesarias para la nutrición de las plantas. En el suelo existe una gran cantidad de seres vivos, clasificados por su tamaño, macrofauna y mesofauna, y asociado a las características agroclimáticas que le corresponden. 
         
           .col-md-6
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema_1/img_1.png', alt='')
 
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p Este proceso de nutrición se encuentra inmerso dentro de la red trófica, la cual está constituida por:  microorganismos como bacterias y actinomicetos; hongos, como levaduras y micorrizas; insectos y anélidos, como gusanos y lombrices; estas últimas, son las ingenieras estructurales del suelo, encargadas de la aireación y el procesamiento de material. 
             p Principalmente, la mesofauna, es catalogada como descomponedora, porque realiza el trabajo de reciclaje de nutrientes. Igualmente, algunos organismos que hacen parte del grupo de macrofauna, interfieren con la estructura física del suelo, en cuanto a la porosidad, proporcionando aireación en procesos de dinámicas hídricas. 
         
@@ -28,29 +28,29 @@
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema_1/img_2.png', alt='')
 
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p Por estos motivos, se utilizan bioabonos para fortalecer las características de los suelos en producción o, incluso, para devolver su riqueza microbiológica y mineral. Estos fertilizantes son preparados a partir de microorganismos, los cuales, en el procesamiento de la materia orgánica, permiten la síntesis de enzimas y hormonas, que son requeridas para el metabolismo de las plantas. 
         
           .col-md-6
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema_1/img_3.png', alt='')
 
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p Toalombo (en Ochoa y Ochoa, 2019) comenta que los ‘Microorganismos eficientes’ (EM), son una combinación de microorganismos beneficiosos de cuatro géneros principales: bacterias fototróficas, levaduras, bacterias productoras de ácido láctico y hongos de fermentación. Estos microorganismos son efectivos al entrar en contacto con materia orgánica, secretando sustancias beneficiosas como vitaminas, ácidos orgánicos, cerca de dieciséis minerales quelatados y, fundamentalmente, substancias antioxidantes. Además, mediante su acción, cambian la micro y macro flora de los suelos y mejoran el equilibrio natural, lo cual permite, en las plantas, una adecuada nutrición.   
           .col-md-6
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema_1/img_4.png', alt='')
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p Gracias a la presencia de bioabono en el suelo, al ser determinado como materia orgánica, y a los tratamientos o procesos controlados en su elaboración, es posible lograr la reestructuración y dinámica natural, siendo posible destacar el ciclo de nutrientes y la retención del agua, elementos indispensables en el crecimiento y desarrollo de cultivos destinados a la producción. 
             p Además de las acciones que involucran un suelo sano en la agricultura, el bioabono contribuye a generar plantas saludables y estas, se encuentran relacionadas directamente con la salud humana. De esta forma, el suministro de nutrientes se transmite a los productos vegetales, proporcionando dietas fortalecidas y productos de gran calidad.   
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema_1/img_5.png', alt='')
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p El requerimiento de los nutrientes en el suelo y su participación en el desarrollo de las funciones vitales, se ven relacionados con la genética de las especies y las variables agroclimáticas en las que se dispone el cultivo. Las características del suelo para la aplicación de los bioabonos dependen de la concentración de elementos en él, como también, de la concentración del elemento o nutriente en la planta, es decir, de la velocidad de crecimiento de las partes vegetativas o del desarrollo en general, de la planta, respecto a cuántos nutrientes dispone y cuánto puede acumular. Así, esta relación de disponibilidad y retención, está condicionada a cada etapa de desarrollo y a los cambios en tejidos y estructuras de las plantas. 
           .col-md-6
             figure(data-aos="fade-left")

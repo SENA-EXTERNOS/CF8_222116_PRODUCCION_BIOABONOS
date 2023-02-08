@@ -113,23 +113,23 @@
 
     .fondo-1.p-4
       SlyderA(tipo="b")
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p Dentro de las variables a controlar en el desarrollo de los bioabonos, se tiene la humedad relativa (Hr), la cual define que no son apropiados los ambientes con una alta saturación de agua, o, por el contrario, con un alto estrés, a raíz de ambientes secos. Esto implica que, si la humedad es muy baja, no se continúan los procesos de transformación de la materia orgánica y, si, por el contrario, la Hr es alta, querrá decir que hay mayor disponibilidad de oxígeno en procedimientos que deberán ser anaerobios, afectando el desarrollo del bioabono.
         
           .col-md-6
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema_2/img_12.png', alt='')
 
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p Otra variable a tener en cuenta, y que es necesario controlar de manera adecuada en el proceso de producción de bioabono, es el equilibrio entre la temperatura y el tiempo de duración del proceso llevado a cabo en la descomposición, o transformación del material, a través de los microorganismos. La temperatura no debe ser muy alta; y, si lo llegara a ser, la actividad metabólica de los microorganismos podría llevarse a cabo, sin terminar los procesos que dan finalidad al producto; cuando es muy baja, no habría una actividad microbiana activa y se detendría la transformación. 
         
           .col-md-6
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema_2/img_13.png', alt='')
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p El pH, sin duda, se relaciona con el tipo de materia o bioinsumos, y su composición ácida, o básica, se altera en la medida en que avanzan los procesos de transformación. Así, se inicia con una acidez alta, aunque el ideal de este tipo de biopreparados, es el de alcanzar una acidez neutra. Igualmente, es necesario tener control sobre variables como la radiación y la precipitación, porque la exposición directa de estas, puede alterar los procesos de transformación del bioabono en sus diferentes etapas. 
           .col-md-6
             figure(data-aos="fade-left")

@@ -11,29 +11,29 @@
 
     .fondo-1.p-4
       SlyderA(tipo="b")
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p La calidad del compostaje viene determinada por la suma de las distintas propiedades y características. Para su evaluación, debe tenerse en cuenta el posible destino del producto, la protección del entorno y los requerimientos del mercado.
         
           .col-md-6
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema_5/img_1.png', alt='')
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p Las características a tener en cuenta, en lo respectivo a exámenes de calidad de bioabonos, comprende pruebas organolépticas y revisiones en cuanto a las características biológicas, en las cuales, a simple vista, no debe observarse ninguna presencia de subproductos vegetales.
         
           .col-md-6
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema_5/img_2.png', alt='')
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p Las valoraciones físicas del bioabono son determinadas en la revisión de la estructura del sólido, del tamaño, color, pureza y densidad. En muchos casos, estos bioabonos son utilizados como sustratos en periodos tempranos de desarrollo de plántulas.
         
           .col-md-6
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema_5/img_3.png', alt='')
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p En el caso de las características químicas a observar, se identifican la estabilidad, en cuanto a la homogeneidad del producto, pues, de esta manera, no se activan procesos que impliquen su pudrición o contaminación. Todas las características que intervienen en la valoración de la calidad del bioabono, deben ser apreciadas en periodos de tiempo establecidos, teniendo en cuenta los bioinsumos y las técnicas de elaboración.
         
           .col-md-6
@@ -86,23 +86,23 @@
 
     .fondo-6.p-4
       SlyderA(tipo="b")
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p La prueba organoléptica hace referencia a un examen, o valoración de calidad, llevado a cabo mediante el uso de los órganos sensoriales, como el olfato, la vista, el tacto, entre otros. Esta prueba, dependiendo del producto que se va a verificar, en el caso de los bioabonos, se realiza para determinar que el producto está terminado y, también, para garantizar que, con el paso del tiempo, se mantienen sus cualidades.
         
           .col-md-6
             figure(data-aos="fade-left")
               img.img-a(src='@/assets/curso/temas/tema_5/img_12.png', alt='')
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p En el desarrollo de esta práctica se visualiza si el bioabono presenta la coloración indicada, pues, dependiendo de los bioinsumos, podrá ser brillante, translúcido, o presentar algún sobrenadante específico. 
         
           .col-md-6
             figure(data-aos="fade-left")
               img.img-a(src='@/assets/curso/temas/tema_5/img_13.png', alt='')
 
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p Con el olfato se procede a determinar si se generan olores fuertes o putrefactos, siendo este un indicador que el producto no está bien, pues la composición de sus olores debe estar relacionada con la fermentación alcohólica y no con la pudrición. Un ejercicio más profundo de este tipo, se realiza con el tacto, con el cual se procede a determinar, que la textura no genere disgregación total, ni se sienta aireada.
         
           .col-md-6

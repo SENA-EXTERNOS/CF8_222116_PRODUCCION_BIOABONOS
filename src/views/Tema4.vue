@@ -11,16 +11,16 @@
 
     .fondo-4.p-4
       SlyderA(tipo="b")
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p La homogeneización del bioabono, es parte indispensable del procedimiento en su elaboración. En esta etapa, se conjugan los distintos bioinsumos que, en diferentes estructuras y proporciones, aportan al proceso de fermentación, cuidando que, en este proceso, no se afecte la función de los microorganismos que allí intervienen. Sea en la preparación de bioabonos líquidos o sólidos, esta homogeneidad permite suministrar, de manera adecuada, los nutrientes, evitando un desequilibrio en el total del contenido, permitiendo, así, la aireación o disgregación de partículas, para obtener relaciones de tipo bioquímicas. 
         
           .col-md-6
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema_4/img_1.png', alt='')
 
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center.justify-content-center
+          .col-md-5.mb-4.mb-md-0
             p Algunas formas de llevar a cabo la homogeneización, se da con la mezcla alternada de bioinsumos organizados en montículos separados, a los cuales se les adiciona la humedad correspondiente a cada capa y, así, finalmente, se integran hasta obtener una pila completa. Otra forma es mezclar, sin discriminar, los bioinsumos, y, al final, en la pila completa, adicionar los líquidos que proveen humedad.
         
           .col-md-6
