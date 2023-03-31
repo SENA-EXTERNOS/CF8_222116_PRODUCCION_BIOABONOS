@@ -41,7 +41,7 @@
 
     figure.mb-5(data-aos="zoom-in-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Y036TMrfYMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5 Reconociendo la composición líquida de bioabonos y lixiviados, a continuación, conozcamo lo relacionado con la composición sólida de bioabonos.
     .bg_3.p-4.mb-5 
