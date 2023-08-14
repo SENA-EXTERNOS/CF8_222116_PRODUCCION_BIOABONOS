@@ -27,7 +27,7 @@
               img.img-a(src='@/assets/curso/temas/tema_3/img_2.svg', alt='')
           
         h3.text-center Composición nutricional
-        p.mb-0 En el proceso, y al finalizar la producción, los estudios y pruebas microbiológicas permiten analizar la composición nutricional que contiene el bioabono, y, así, determinar en qué tipo de suelo o a qué tipo de deficiencia va ir dirigido. 
+        p.mb-0 En el proceso, y al finalizar la producción, los estudios y pruebas microbiológicas permiten analizar la composición nutricional que contiene el bioabono, y, así, determinar en qué tipo de suelo o a qué tipo de deficiencia va a ir dirigido. 
 
       .col-md.tarjeta.color-primario.p-5.text-center
         .row.justify-content-center.mb-4
@@ -61,7 +61,7 @@
         img.img-a(src='@/assets/curso/temas/tema_3/img_9.png', alt='')
       .col-lg-7
         .cajon-b.color-secundario.p-3
-          p.mb-0 Al implementarse un cultivo para producción, la transición entre uno y otro, continuamente, genera en el suelo, la escasez de minerales indispensables para el desarrollo del material vegetal a producir. Por esta razón, es de gran importancia proveer, periódicamente, los minerales absorbidos en el crecimiento y desarrollo de las plantas, pues la no absorción de alguno de estos, en los diferentes estadíos de desarrollo, genera deficiencias que implican productos de baja calidad. 
+          p.mb-0 Al implementarse un cultivo para producción, la transición entre uno y otro, continuamente, genera en el suelo, la escasez de minerales indispensables para el desarrollo del material vegetal a producir. Por esta razón, es de gran importancia proveer, periódicamente, los minerales absorbidos en el crecimiento y desarrollo de las plantas, pues la no absorción de alguno de estos, en los diferentes estados de desarrollo, genera deficiencias que implican productos de baja calidad. 
         p Para realizar los aportes nutricionales, mediante el suministro de bioabonos, se determinan, en su elaboración, bioinsumos que contengan la mineralización apropiada para las especies o tipos de cultivo; por ejemplo, el hierro actúa en los procesos fotosintéticos y en la fijación del nitrógeno. Así, cada uno de los minerales mencionados anteriormente, interviene, de forma particular, tal como se observa en la siguiente infografía. Así, el bioabono se enriquece mediante la aplicación de sueros, roca fosfórica, carbonato de calcio, cenizas y otros insumos que contienen los minerales requeridos.
 
     .fondo-3.p-4

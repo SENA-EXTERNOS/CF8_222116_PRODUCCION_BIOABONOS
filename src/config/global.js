@@ -145,7 +145,7 @@ export default {
         'Ávila. P. (2017). <i>¿Cómo los abonos orgánicos recuperan la vida microbiana del suelo?</i> Hortalizas.com.',
       tipo: 'Artículo de divulgación',
       link:
-        'https://www.hortalizas.com/proteccion-de-cultivos/como-los-abonos-organicos-recuperan-la-vida-microbiana-del-suelo/',
+        'https://www.productoresdigital.com/proteccion-de-cultivos/como-los-abonos-organicos-recuperan-la-vida-microbiana-del-suelo/',
     },
   ],
   glosario: [
@@ -197,7 +197,8 @@ export default {
     {
       referencia:
         'Dussan, S., Miranda, D. y Villegas, D. (2016). Efecto de la deficiencia de N, P, K, Mg, Ca y B sobre la acumulación y distribución de la masa seca en plantas de guayaba. <i>Revista Colombiana de Ciencias Hortícolas<i>, 10, p. 40-52.',
-      link: 'http://dx.doi.org/10.17584/rcch.2016v10i1.4277',
+      link:
+        'https://revistas.uptc.edu.co/index.php/ciencias_horticolas/article/view/4277/pdf',
     },
 
     {
