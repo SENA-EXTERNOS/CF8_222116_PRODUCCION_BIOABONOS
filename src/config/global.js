@@ -197,8 +197,7 @@ export default {
     {
       referencia:
         'Dussan, S., Miranda, D. y Villegas, D. (2016). Efecto de la deficiencia de N, P, K, Mg, Ca y B sobre la acumulación y distribución de la masa seca en plantas de guayaba. <i>Revista Colombiana de Ciencias Hortícolas<i>, 10, p. 40-52.',
-      link:
-        'https://revistas.uptc.edu.co/index.php/ciencias_horticolas/article/view/4277/pdf',
+      link: 'http://www.scielo.org.co/pdf/rcch/v10n1/v10n1a4.pdf',
     },
 
     {
