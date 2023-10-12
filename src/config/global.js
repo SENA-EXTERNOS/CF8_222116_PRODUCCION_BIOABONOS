@@ -142,10 +142,9 @@ export default {
     {
       tema: 'Homogeneización del producto',
       referencia:
-        'Ávila. P. (2017). <i>¿Cómo los abonos orgánicos recuperan la vida microbiana del suelo?</i> Hortalizas.com.',
-      tipo: 'Artículo de divulgación',
-      link:
-        'https://www.productoresdigital.com/proteccion-de-cultivos/como-los-abonos-organicos-recuperan-la-vida-microbiana-del-suelo/',
+        'Garro, J. (2016). <i>El suelo y los abonos orgánicos.</i> Instituto Nacional de Innovación y Transferencia en Tecnología Agropecuaria.',
+      tipo: 'Libro',
+      link: 'https://www.mag.go.cr/bibliotecavirtual/F04-10872.pdf',
     },
   ],
   glosario: [
