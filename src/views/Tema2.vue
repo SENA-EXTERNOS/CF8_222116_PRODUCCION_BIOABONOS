@@ -54,11 +54,11 @@
           li 
             .lista-ol--cuadro__vineta
               span 2
-            | El desarrollo de todas las prácticas relacionadas con la calidad de los bioinsumos, están reguladas por el Instituto Colombiano Agropecuario (ICA) con la Resolución 068370 de 2020; en ella se definen los bioinsumos como:<br><br>Producto que se emplea con fines de manejo integrado de plagas o en la mejora de la productividad de los cultivos y el suelo, elaborado de forma masiva a partir de microorganismos vivos, virus, microorganismos, productos de ocurrencia natural o productos bioquímicos. 
+            | El desarrollo de todas las prácticas relacionadas con la calidad de los bioinsumos, están reguladas por el Instituto Colombiano Agropecuario (ICA) con la Resolución 068370 de 2020; en ella se definen los bioinsumos como: producto que se emplea con fines de manejo integrado de plagas o en la mejora de la productividad de los cultivos y el suelo, elaborado de forma masiva a partir de microorganismos vivos, virus, microorganismos, productos de ocurrencia natural o productos bioquímicos. 
           li 
             .lista-ol--cuadro__vineta
               span 3
-            p Igualmente, a través de esta norma, se da claridad sobre aquellos productos que no se consideran bioinsumos como, por ejemplo: <br><br>Los antibióticos, las toxinas (<i>β-exotoxina de Bacillus thuringensis</i>), los organismos genéticamente modificados (<i>OGM</i>) y los bioinsumos descritos como extremada y altamente tóxicos, por el Instituto Nacional de Salud […] o aquellos productos que sean catalogados como patógenos a humanos, plantas o animales. (ICA, 2020)
+            p Igualmente, a través de esta norma, se da claridad sobre aquellos productos que no se consideran bioinsumos como, por ejemplo. <br><br>Los antibióticos, las toxinas (<i>β-exotoxina de Bacillus thuringensis</i>), los organismos genéticamente modificados (<i>OGM</i>) y los bioinsumos descritos como extremada y altamente tóxicos, por el Instituto Nacional de Salud […] o aquellos productos que sean catalogados como patógenos a humanos, plantas o animales. (ICA, 2020)
           li 
             .lista-ol--cuadro__vineta
               span 4
