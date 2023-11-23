@@ -195,12 +195,6 @@ export default {
   referencias: [
     {
       referencia:
-        'Dussan, S., Miranda, D. y Villegas, D. (2016). Efecto de la deficiencia de N, P, K, Mg, Ca y B sobre la acumulación y distribución de la masa seca en plantas de guayaba. <i>Revista Colombiana de Ciencias Hortícolas<i>, 10, p. 40-52.',
-      link: 'http://www.scielo.org.co/pdf/rcch/v10n1/v10n1a4.pdf',
-    },
-
-    {
-      referencia:
         'Instituto Colombiano Agropecuario. (2004). <i>Resolución 00375. Por la cual se dictan las disposiciones sobre Registro y Control de los Bioinsumos y Extractos Vegetales de uso agrícola en Colombia</i>.',
       link:
         'https://www.ica.gov.co/normatividad/normas-ica/resoluciones-oficinas-nacionales/resoluciones-derogadas/resolucion-375-de-2004.aspx',
